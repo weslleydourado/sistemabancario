@@ -16,7 +16,6 @@ public class ContaCorrente extends Conta {
 	}
 
 	public ContaCorrente() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public void depositar(double valor) {
